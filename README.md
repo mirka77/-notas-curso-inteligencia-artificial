@@ -1,8 +1,7 @@
 # -notas-curso-inteligencia-artificial
 # Notas del Curso de Inteligencia Artificial
 
-Este repositorio contiene las notas que he ido realizando a lo largo del curso de IA, incluyendo temas como búsqueda, heurísticas, CSP, A*, y más.
-
+Este repositorio contiene las notas que he ido realizando a lo largo del curso de IA.
 ---
 
 | Tema                                                                 | Archivo PDF                                                                 |
@@ -19,13 +18,13 @@ Este repositorio contiene las notas que he ido realizando a lo largo del curso d
 
 ---
 
-## 🧠 Autor
+## Autor
 
 Mirka Galilea Dennis Vargas
 
 ---
 
-## 💻 Vista Web (GitHub Pages)
+## Vista Web
 
 Visita la versión navegable en: **[https://mirka77.github.io/-notas-curso-inteligencia-artificial/](https://mirka77.github.io/-notas-curso-inteligencia-artificial/)**
 
