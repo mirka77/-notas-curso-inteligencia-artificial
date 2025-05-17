@@ -27,5 +27,5 @@ Mirka Galilea Dennis Vargas
 
 ## 💻 Vista Web (GitHub Pages)
 
-Visita la versión navegable en: **[https://mirka77.github.io/notas-curso-inteligencia-artificial](https://mirka77.github.io/notas-curso-inteligencia-artificial)**
+Visita la versión navegable en: **[https://mirka77.github.io/-notas-curso-inteligencia-artificial/](https://mirka77.github.io/-notas-curso-inteligencia-artificial/)**
 
