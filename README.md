@@ -7,7 +7,7 @@ Este repositorio contiene las notas que he ido realizando a lo largo del curso d
 
 | Tema                                                                 | Archivo PDF                                                                 |
 |----------------------------------------------------------------------|------------------------------------------------------------------------------|
-| Torres de Hanoi                                                      | [Torres_de_Hanoi.pdf](./Torres_de_Hanoi.pdf)                                |
+| Torres de Hanoi                                                      | [Torres_de_Hanoi_.pdf](./Torres_de_Hanoi.pdf)                                |
 | Búsqueda en Inteligencia Artificial                                  | [BÚSQUEDA EN INTELIGENCIA ARTIFICIAL_.pdf](./BÚSQUEDA%20EN%20INTELIGENCIA%20ARTIFICIAL_.pdf) |
 | Características no lineales en aprendizaje automático                | [CARACTERÍSTICAS NO LINEALES EN APRENDIZAJE AUTOMÁTICO_.pdf](./CARACTERÍSTICAS%20NO%20LINEALES%20EN%20APRENDIZAJE%20AUTOMÁTICO_.pdf) |
 | Descenso de Gradiente                                                | [Descenso_de_Gradiente.pdf](./Descenso_de_Gradiente.pdf)                    |
